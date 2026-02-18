@@ -15,7 +15,7 @@ BEWARE: This project wasn't meant to be taken this far, but it was well recieved
 
 It is a card game that includes a wide range of fantastical-cultural *(and maybe in near future, myhtological)* characters. Almost all cards have their own unique **passives, stats and preferred targets** which is the reason why this game is this much chaotic.
 
-**Currently the main systems are:** Passive, Target System and the stat types.
+**Currently the main systems are:** Passive, Status Effects, Target System and the stat types.
 
 # Passive System:
 Has unique call times:
